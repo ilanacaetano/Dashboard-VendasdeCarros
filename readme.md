@@ -9,5 +9,4 @@ Projeto prático desenvolvido durante o curso de **SQL para Análise de Dados** 
 ##  Resultado
 O painel permite visualizar a evolução da receita, conversão de leads e o ranking de vendas por estado e marca.
 
-![Preview do Dashboard](Resultado_Dash.png)
-
+![Preview do Dashboard](https://github.com/user-attachments/assets/410c0f8c-2775-4f4c-b776-3f32ec414353)
